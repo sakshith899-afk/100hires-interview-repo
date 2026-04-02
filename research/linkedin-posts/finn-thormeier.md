@@ -1,3 +1,4 @@
 Expert: Finn Thormeier  
+
 Link: https://www.linkedin.com/posts/finnthormeier_my-biggest-takeaways-from-my-conversation-activity-7442913716674940928-CXqV?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkni0QBzmZkfIVbKRyqBDgmNzfJlIUZ7TY  
 Brief: Finn shares a case study about Ahrefs reaching over $100 million in annual recurring revenue by ignoring typical marketing practices like tracking attribution, retargeting, and offering free trials. The main points include treating every piece of content as a direct sales page that talks about the product and implementing a bottom-up content strategy. Rather than breaking down a long podcast into shorter posts, they test ideas as brief LinkedIn posts first, assess the comments, and expand successful hooks into full articles and conference talks. He also points out how their CMO used AI to create a custom LinkedIn engagement tracker, showing that resourceful, technical operators succeed in B2B SaaS.
