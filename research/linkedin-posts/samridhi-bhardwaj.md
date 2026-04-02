@@ -1,0 +1,5 @@
+Expert: Samridhi Bhardwaj
+
+Link: https://www.linkedin.com/posts/samridhi-bhardwaj-sb_if-you-understood-these-%F0%9D%9F%B1-%F0%9D%97%BD%F0%9D%98%80%F0%9D%98%86%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%BC%F0%9D%97%B9%F0%9D%97%BC%F0%9D%97%B4%F0%9D%97%B6%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%B9-activity-7400082091767431170-gvKP/
+
+Samridhi talks about the five psychological triggers that really make B2B content go viral. She says that virality is never an accident; it's the mind at work. Her framework includes cognitive ease (making posts easy to read), identity alignment (giving people something that says "this is me"), and social currency (sharing things that make the sharer look smart or "early"). The main point is that most creators try to find ways to hack algorithms, but the real winners build content systems around these basic human triggers to stop people from "autopilot scrolling."

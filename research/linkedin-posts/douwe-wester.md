@@ -1,0 +1,5 @@
+Expert: Douwe Wester
+
+Link: https://www.linkedin.com/posts/douwewester_you-think-your-content-problem-is-creativity-activity-7445379890029285376-EaU5?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkni0QBzmZkfIVbKRyqBDgmNzfJlIUZ7TY
+
+Brief: Douwe argues that SaaS content problems are typically "plumbing" issues. Sales, Customer Success, and Marketing often tell different stories to the same prospect. He supports building a living Ideal Customer Profile (ICP) using real data instead of guesswork. His practical workflow includes equipping every customer-facing team with AI note-takers. These notes sync to the CRM, and automation tools like n8n, Make, or Claude extract patterns from the top 20% of customers. By examining their specific triggers and actual words, you establish a feedback loop where your best customers effectively shape your content strategy.

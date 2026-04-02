@@ -1,3 +1,5 @@
-Expert: Todd Clouser  
+Expert: Todd Clouser 
+
 Link: https://www.linkedin.com/posts/toddclouser_things-i-want-to-see-more-and-less-of-on-activity-7413967916376936448-MmFH  
+
 Brief: Todd explains what is working on LinkedIn for B2B right now. He emphasizes sharing detailed playbooks with real numbers and creating genuine community. He strongly advises against using clickbait hooks and raw AI-generated content. His main strategy is a story-first approach that highlights customer wins and incorporates actionable tactics in easy-to-read formats. He introduces the product naturally at the end rather than pitching it upfront.

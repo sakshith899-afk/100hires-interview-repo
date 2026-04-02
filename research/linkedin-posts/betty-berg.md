@@ -1,0 +1,5 @@
+Expert: Betty Berg  
+
+Link: https://www.linkedin.com/posts/bettyberg_hate-self-promotion-culture-on-linkedin-activity-7445093048851562496-bi8V?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkni0QBzmZkfIVbKRyqBDgmNzfJlIUZ7TY  
+
+Brief: Betty discusses the common dislike founders have for self-promotion on LinkedIn. This includes bragging, performative vulnerability, and morning routines. She believes these theatrics are not necessary. Instead, she suggests focusing on "contribution" instead of "promotion." Her advice for founders is to share what they have learned and the real challenges they face, without any pretense. She points out that when thoughtful leaders leave LinkedIn because they don’t like the noise, they allow the platform to be dominated by voices they find unappealing. For 100Hires, this means engaging with genuine presence and expertise rather than fake interaction.
