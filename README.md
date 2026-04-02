@@ -1,3 +1,63 @@
+100Hires: B2B SaaS LinkedIn Organic Content Strategy
+
+
+
+What this repo is about:
+
+
+
+The goal was to develop a LinkedIn organic content strategy specifically for B2B SaaS, which is exactly what 100Hires needs.
+
+
+
+How I found the experts:
+
+
+
+My first step was to understand what actual practitioners in this niche do. How do they teach? What do they write? How do they perform? I quickly realized that 100Hires targets HR leaders and founders, so I couldn't simply choose generic "LinkedIn growth hackers."
+
+
+
+I used Claude, Gemini, Perplexity, and ChatGPT for in-depth research to broaden my search. I then cross-referenced them to find those who truly address the "LinkedIn for B2B SaaS" issue. After 4 hours of focusing my search, I identified 10 people who specifically tackle this problem. These individuals are not just talkers; they are reliable operators.
+
+
+
+How I collected the data:
+
+
+
+When it came to gathering data, I discovered that AI scrapers were giving me broken links and poor data from LinkedIn. Since I only had 10 profiles, I decided to manually review the LinkedIn posts. This was the quickest way to ensure that the data was accurate and useful. I also found that the best information from these experts is often hidden in their newsletters or long videos.
+
+
+
+For YouTube, I took a more technical approach. I used Perplexity to find specific videos related to my keywords and then created a Node.js script with the youtube-transcript API. This allowed me to automatically pull and clean the long-form data.
+
+
+
+What is in here:
+
+
+
+- sources file: My list of 10 verified experts.
+
+- linkedin-posts folder: The concise posts I curated manually.
+
+- youtube-transcripts folder: The long-form data I extracted using my API script.
+
+- scripts folder: The custom script I built to scrape the YouTube transcripts.
+
+
+.
+
+
+
+The takeaway:
+
+
+
+This is a system to get 100Hires in front of the right HR leaders organically, using the same strategies that top SaaS operators employ.
+
+---------------------------------------------------------------------------------------------------------
 My Portfolio Project - 100Hires
 
 
